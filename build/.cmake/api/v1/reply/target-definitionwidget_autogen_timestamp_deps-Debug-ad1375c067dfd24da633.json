@@ -1,0 +1,70 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"definition/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "dictionary_db::@e667482a2e5ec787ce42"
+		},
+		{
+			"id" : "audioplayer::@882ca0cc851fe790ef9f"
+		},
+		{
+			"id" : "flowlayout::@db1f4aad4e0a8b172a41"
+		}
+	],
+	"id" : "definitionwidget_autogen_timestamp_deps::@2bea417b88bcc5c6ae2f",
+	"isGeneratorProvided" : true,
+	"name" : "definitionwidget_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "definition",
+		"source" : "definition"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/definition/CMakeFiles/definitionwidget_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/definition/CMakeFiles/definitionwidget_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

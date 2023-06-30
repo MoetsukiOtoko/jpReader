@@ -1,0 +1,83 @@
+{
+	"BUILD_DIR" : "/home/phil/_cprojects/jpReader/build/gui/widgets/common/scrollcombobox_autogen",
+	"CMAKE_BINARY_DIR" : "/home/phil/_cprojects/jpReader/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/phil/_cprojects/jpReader/build/gui/widgets/common",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/phil/_cprojects/jpReader/gui/widgets/common",
+	"CMAKE_EXECUTABLE" : "/usr/share/clion/bin/cmake/linux/x64/bin/cmake",
+	"CMAKE_LIST_FILES" : [ "/home/phil/_cprojects/jpReader/gui/widgets/common/CMakeLists.txt" ],
+	"CMAKE_SOURCE_DIR" : "/home/phil/_cprojects/jpReader",
+	"DEP_FILE" : "/home/phil/_cprojects/jpReader/build/gui/widgets/common/scrollcombobox_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "scrollcombobox_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/phil/_cprojects/jpReader/gui/widgets/common/scrollcombobox.h",
+			"MU",
+			"EWIEGA46WW/moc_scrollcombobox.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/phil/_cprojects/jpReader/build/gui/widgets/common/scrollcombobox_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/phil/_cprojects/jpReader/build/gui/widgets/common/scrollcombobox_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/phil/_cprojects/jpReader/external/include",
+		"/usr/include/qt",
+		"/usr/include/qt/QtWidgets",
+		"/usr/include/qt/QtGui",
+		"/usr/include/qt/QtCore",
+		"/usr/lib/qt/mkspecs/linux-g++",
+		"/usr/include/c++/13.1.1",
+		"/usr/include/c++/13.1.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/13.1.1/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include",
+		"/usr/local/include",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/13.1.1/include-fixed",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/clion/bin/cmake/linux/x64/share/cmake-3.24/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/phil/_cprojects/jpReader/build/gui/widgets/common/scrollcombobox_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"/home/phil/_cprojects/jpReader/build/gui/widgets/common/flowlayout_autogen/mocs_compilation.cpp",
+		"/home/phil/_cprojects/jpReader/build/gui/widgets/common/sliderjumpstyle_autogen/mocs_compilation.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 16,
+	"PARSE_CACHE_FILE" : "/home/phil/_cprojects/jpReader/build/gui/widgets/common/CMakeFiles/scrollcombobox_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/phil/_cprojects/jpReader/build/gui/widgets/common/CMakeFiles/scrollcombobox_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : [],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"/home/phil/_cprojects/jpReader/build/gui/widgets/common/flowlayout_autogen/mocs_compilation.cpp",
+		"/home/phil/_cprojects/jpReader/build/gui/widgets/common/sliderjumpstyle_autogen/mocs_compilation.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

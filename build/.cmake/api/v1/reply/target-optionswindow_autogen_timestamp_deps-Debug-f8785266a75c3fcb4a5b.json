@@ -1,0 +1,76 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"gui/widgets/settings/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "globalmediator::@5865449b717dd869d2cd"
+		},
+		{
+			"id" : "dictionary_db::@e667482a2e5ec787ce42"
+		},
+		{
+			"id" : "anki::@88e067307a84a9809410"
+		},
+		{
+			"id" : "scrollcombobox::@db1f4aad4e0a8b172a41"
+		},
+		{
+			"id" : "scrolldoublespinbox::@db1f4aad4e0a8b172a41"
+		}
+	],
+	"id" : "optionswindow_autogen_timestamp_deps::@a4bb7f91e54137ea2053",
+	"isGeneratorProvided" : true,
+	"name" : "optionswindow_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "gui/widgets/settings",
+		"source" : "gui/widgets/settings"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/gui/widgets/settings/CMakeFiles/optionswindow_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/gui/widgets/settings/CMakeFiles/optionswindow_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

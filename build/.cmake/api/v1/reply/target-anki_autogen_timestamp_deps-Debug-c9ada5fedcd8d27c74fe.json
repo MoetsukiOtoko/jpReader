@@ -1,0 +1,67 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"anki/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"dependencies" : 
+	[
+		{
+			"id" : "globalmediator::@5865449b717dd869d2cd"
+		},
+		{
+			"id" : "utils::@5865449b717dd869d2cd"
+		}
+	],
+	"id" : "anki_autogen_timestamp_deps::@88e067307a84a9809410",
+	"isGeneratorProvided" : true,
+	"name" : "anki_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "anki",
+		"source" : "anki"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/anki/CMakeFiles/anki_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/anki/CMakeFiles/anki_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

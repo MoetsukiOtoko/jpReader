@@ -1,0 +1,5 @@
+/home/phil/_cprojects/jpReader/mywidgets/build/CMakeFiles/overlayWidget.dir
+/home/phil/_cprojects/jpReader/mywidgets/build/CMakeFiles/textHolder.dir
+/home/phil/_cprojects/jpReader/mywidgets/build/CMakeFiles/TranslationHolder.dir
+/home/phil/_cprojects/jpReader/mywidgets/build/CMakeFiles/edit_cache.dir
+/home/phil/_cprojects/jpReader/mywidgets/build/CMakeFiles/rebuild_cache.dir

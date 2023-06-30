@@ -1,0 +1,4 @@
+/usr/share/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/usr/share/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/phil/_cprojects/jpReader -B /home/phil/_cprojects/jpReader/build
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/phil/_cprojects/jpReader/build
